@@ -1,11 +1,7 @@
 {
-  "functions": {
-    "api/*.php": {
-      "runtime": "vercel-php@0.5.1",
-      "maxDuration": 60
-    }
-  },
-  "routes": [
-    { "src": "/(.*)", "dest": "/api/index.php" }
+  "version": 2,
+  "builds": [
+    { "src": "*.php", "use": "vercel-php@latest" },
+    { "src": "**/*.php", "use": "vercel-php@latest" }
   ]
 }
