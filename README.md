@@ -1,12 +1,13 @@
-# vercel-functions-api-php
+# vercel-api-php
 
 project
 ├── api
-│   ├── functions
-│   │   └── index.php
-│   └── index.php
-├── text
 │   ├── index.php
-│   └── index.php
+│   └── functions
+│       └── index.php
+├── test
+│   ├── index.php
+│   └── functions
+│       └── phpinfo.php
 └── index.php
 └── vercel.json
