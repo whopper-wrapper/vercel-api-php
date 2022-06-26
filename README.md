@@ -3,13 +3,13 @@
 ```sh
 project
 ├── api
-│   ├── index.php
-│   └── functions
-│       └── index.php
+│   ├── functions
+│   |   └── index.php
+│   └── index.php
 ├── test
-│   ├── index.php
-│   └── functions
-│       └── phpinfo.php
+│   ├── info
+│   |   └── phpinfo.php
+│   └── index.php
 └── index.php
 └── vercel.json
 ```
