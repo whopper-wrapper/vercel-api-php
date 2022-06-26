@@ -4,6 +4,7 @@
 <head>
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>vercel-api-php</title>
 </head>
 <body>
     <a href="api/">View api</a><br>
