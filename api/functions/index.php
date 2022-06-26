@@ -1,3 +1,3 @@
 <?php
-    echo 'Hello functions';
+    echo 'Hello functions.';
 ?>
