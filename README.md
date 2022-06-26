@@ -4,11 +4,11 @@
 project
 ├── api
 │   ├── functions
-│   |   └── index.php
+│   │   └── index.php
 │   └── index.php
 ├── test
 │   ├── info
-│   |   └── phpinfo.php
+│   │   └── phpinfo.php
 │   └── index.php
 └── index.php
 └── vercel.json
