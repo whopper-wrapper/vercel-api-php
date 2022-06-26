@@ -1,5 +1,5 @@
 <?php
-    echo "Test phpinfo.";
+    echo "vercel-api-php";
 ?>
 <br>
 <a href="api/">View api</a><br>
