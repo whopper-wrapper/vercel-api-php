@@ -8,7 +8,7 @@ vercel.json
 - `vercel-php@0.4.0` - PHP 8.0.x
 - `vercel-php@0.3.2` - PHP 7.4.x
 
-## Project
+## Root Files
 
 ```sh
 project
