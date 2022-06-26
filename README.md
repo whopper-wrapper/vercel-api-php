@@ -1,5 +1,6 @@
 # vercel-api-php
 
+```sh
 project
 ├── api
 │   ├── index.php
@@ -11,3 +12,4 @@ project
 │       └── phpinfo.php
 └── index.php
 └── vercel.json
+```
